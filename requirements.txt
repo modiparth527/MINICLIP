@@ -1,0 +1,6 @@
+torch
+torchvision
+transformers
+sentence-transformers
+pillow
+matplotlib

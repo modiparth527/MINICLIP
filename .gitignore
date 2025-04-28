@@ -1,0 +1,7 @@
+Flickr8k_text/Flickr8k.token.txt
+Flickr8k_Dataset
+clip_finetuned_best
+image_encoder_best.pth
+image_encoder_final.pth
+image_encoder.pth
+__pycache__
